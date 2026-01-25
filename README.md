@@ -22,7 +22,7 @@ production-ready solutions.
 
 ## Contact
 Email: sumankamboj1997@gmail.com  
- GitHub: https://github.com/codesumanr
+
 
 <!---
 codesumanr/codesumanr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
